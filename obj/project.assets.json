@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/yagami/z-source/repo-cursoss/cp-azure/c-webapp-logicapps/PlatziWebsite/PlatziWebsite.csproj",
+      "projectUniqueName": "/Users/yagami/z-source/repo-cursoss/z-projects/ptzi-c-webapp-logicapps/PlatziWebsite.csproj",
       "projectName": "PlatziWebsite",
-      "projectPath": "/Users/yagami/z-source/repo-cursoss/cp-azure/c-webapp-logicapps/PlatziWebsite/PlatziWebsite.csproj",
+      "projectPath": "/Users/yagami/z-source/repo-cursoss/z-projects/ptzi-c-webapp-logicapps/PlatziWebsite.csproj",
       "packagesPath": "/Users/yagami/.nuget/packages/",
-      "outputPath": "/Users/yagami/z-source/repo-cursoss/cp-azure/c-webapp-logicapps/PlatziWebsite/obj/",
+      "outputPath": "/Users/yagami/z-source/repo-cursoss/z-projects/ptzi-c-webapp-logicapps/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/yagami/.nuget/NuGet/NuGet.Config"
